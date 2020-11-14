@@ -1,5 +1,5 @@
 /*  Copyright (C) 2020  Marcelo (marcelo.holgado@edu.pucrs.br)
-    Este programa foi desenvolvido para disciplina de Rede de comunicação II
+    Este programa foi desenvolvido para disciplina de Redes de comunicação II
     do curso de Engenharia de Computação
 
     MAN-IN-THE-MIDDLE
